@@ -55,6 +55,7 @@ Users should be able to:
         width: 95vw;
     }
 }
+```
 
 ### Continued development
 
