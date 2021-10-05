@@ -19,6 +19,8 @@ Users should be able to:
 
 ## My process
 
+- I just coded from top to bottom on my html and css. I started with the nav bar, and once I got that almost perfect, I moved on to the logo, search bar, etc. Finally, I did the media queries for mobile functionality.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -28,7 +30,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to implement CSS Flexbox to layout elements on the page. Most of my CSS is lableled with display: flex; to make it easier, instead of using px dimensions to set width and height of my containers. I also learned how to use media queries to have better mobile functionality.
+- I learned how to implement CSS Flexbox to layout elements on the page. Most of my CSS is lableled with display: flex; to make it easier, instead of using px dimensions to set width and height of my containers. I also learned how to use media queries to have better mobile functionality.
 
 ```css
 @media (max-width: 630px) {
@@ -53,9 +55,10 @@ I learned how to implement CSS Flexbox to layout elements on the page. Most of m
         width: 95vw;
     }
 }
+
 ### Continued development
 
-I will be trying to implement JS for almost full functionality such as search suggestions and search links as I get more comfortable with web development.
+- I will be trying to implement JS for almost full functionality such as search suggestions and search links as I get more comfortable with web development.
 
 ### Useful resources
 
