@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![pics/googleClone.png]()
+![](pics/googleClone.png)
 
 ### Links
 
